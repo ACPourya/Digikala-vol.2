@@ -177,7 +177,7 @@ let fetchMobile = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات موبایل</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -257,7 +257,7 @@ let fetchDigitalProducts = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات کالای دیجیتال</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -337,7 +337,7 @@ let fetchhomeAndKitchen = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات خانه و آشپزخانه</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -417,7 +417,7 @@ let fetchAppliances = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات لوازم خانگی برقی</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -497,7 +497,7 @@ let fetchFashion = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات مد و پوشاک</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -577,7 +577,7 @@ let fetchJewelry = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات ساعت، طلا و جواهرات</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -648,7 +648,7 @@ let fetchCosmeticProducts = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات آرایشی بهداشتی</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -728,7 +728,7 @@ let fetchHealthPoroducts = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات تجهیزات پزشکی و سلامت</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -808,7 +808,7 @@ let fetchGiftCard = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات کارت هدیه و گیفت کارت</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -879,7 +879,7 @@ let fetchSuperMarketProducts = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات کالاهای سوپرمارکتی</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -959,7 +959,7 @@ let fetchArtProducts = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات کتاب، لوازم تحریر و هنر</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -1039,7 +1039,7 @@ let fetchToys = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات اسباب بازی، کودک و نوزاد</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -1110,7 +1110,7 @@ let fetchTools = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات ابزار آلات و تجهیزات</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -1190,7 +1190,7 @@ let fetchCarAndMotorcycle = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات خودرو و موتورسیکلت</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -1270,7 +1270,7 @@ let fetchSportAndTravel = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات ورزش و سفر</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>
@@ -1350,7 +1350,7 @@ let fetchLocalProducts = async () => {
         <div class="flex items-center justify-start mt-2 mb-3">
           <a href="" class="flex items-center font-digikala">
             <p class="text-[#19bfd3] text-[11px]">همه محصولات محصولات بومی و محلی</p>
-            <img src="/public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
+            <img src="./public/images/svg/left-blue.svg" alt="left-blue" class="w-[18px] h-[18px]">
           </a>
         </div>
       </div>

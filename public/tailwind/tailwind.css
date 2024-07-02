@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* :root {
+    --font-tw: IranYekan, sans-serif;
+  } */
+
+  @font-face {
+    font-family: "IranYekan";
+    src: url("../fonts/IRANYekanWeb.eot");
+    src: url("../fonts/IRANYekanWeb.ttf");
+    src: url("../fonts/IRANYekanWeb.woff");
+    src: url("../fonts/IRANYekanWeb.woff2");
+  }
+  @font-face {
+    font-family: "Homa";
+    src: url("../fonts/homa/BHoma.eot");
+    src: url("../fonts/homa/BHoma.ttf");
+    src: url("../fonts/homa/BHoma.woff");
+    src: url("../fonts/homa/BHoma.woff2");
+  }
+  
+}
+
+@layer components {
+  .swiper-slide-content {
+    @apply w-full h-full flex flex-col flex-wrap items-center justify-center gap-[15px] shrink-0;
+  }
+  .story-image {
+    @apply !w-[74px] !h-[74px] rounded-full outline outline-[purple] outline-offset-[5px];
+  }
+  .story-text {
+    @apply h-[36px] font-digikala text-[12px] line-clamp-2 text-ellipsis;
+  }
+}

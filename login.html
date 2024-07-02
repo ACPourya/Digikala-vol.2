@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./public/css/main.css" type="text/css" />
+    <link
+      rel="shortcut icon"
+      href="./public/images/favicon/favicon.ico"
+      type="image/x-icon"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>فروشگاه اینترنتی دیجی کالا</title>
+  </head>
+  <body>
+    <main class="h-screen w-full flex flex-col justify-center items-center">
+        <div class="w-inherit lg:w-[450px] h-[440px] lg:border lg:border-[#e0e0e2] lg:rounded-[8px] font-digikala">
+            <a href="./index.html" class="flex justify-center py-6">
+                <img src="./public/images/svg/لوگوی دیجیکالا.svg" alt="" class="w-[150px] h-[40px]">
+            </a>
+            <div class="flex flex-col px-8 gap-y-3">
+                <div class="flex justify-start text-[20px] font-bold gap-x-3 ">
+                    <p>ورود</p>
+                    <span>|</span>
+                    <p>ثبت‌نام</p>
+                </div>
+                <div class="flex flex-col gap-y-1 text-[13px] pt-2">
+                    <p>سلام!</p>
+                    <p>لطفا شماره موبایل یا ایمیل خود را وارد کنید</p>
+                </div>
+                <form class="flex flex-col">
+                    <label class="w-full grow">
+                      <input style="caret-color: #19bfd3; caret-shape: 1px;" type="text" name="email" class="w-full outline-none rounded-[10px] border-red-600 border p-3">
+                    </label>
+                    <p class="text-[13px] mt-1 text-[#b2001a]">لطفا این قسمت را خالی نگذارید</p>
+                    <button type="submit" class="flex items-center justify-center rounded-[10px]  text-neutral-50 bg-[#ef4056] p-3 mt-12">ورود</button>
+                  </form>
+                <p class="text-[12px] text-neutral-700 mt-4">ورود شما به معنای پذیرش<a class="mx-1 inline-block text-[#19bfd3]" href="#">شرایط دیجی‌کالا</a>و<a class="mx-1 inline-block text-[#19bfd3]" href="#">قوانین حریم‌خصوصی</a>است</p>
+            </div>
+        </div>
+    </main>
+  </body>
+</html>
